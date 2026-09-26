@@ -1,57 +1,78 @@
-# 🚀 C++ DSA Learning Journey
+# 🚀 C++ Learning & DSA Journey
 
-Welcome to my **C++ Data Structures & Algorithms** learning repository!
+Welcome to my **C++ learning repository**! 👋
 
-I’m currently learning DSA in C++ through the **Apna College YouTube series** and documenting my progress here. This repository contains the code, notes, practice questions, and problems I solve along the way.
+I'm currently learning **C++ and Data Structures & Algorithms (DSA)** and using this repository to track my progress, practice concepts, and maintain all my code in one place.
 
 ## 📚 What I'm Learning
 
-* C++ Fundamentals
-* Arrays & Strings
-* Functions
-* Recursion
-* Sorting & Searching
-* Object-Oriented Programming
-* Linked Lists
-* Stacks & Queues
-* Trees
-* Graphs
-* Dynamic Programming
-* Problem Solving
+- C++ Basics
+- Variables & Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Arrays
+- Strings
+- Pointers
+- Object-Oriented Programming (OOP)
+- Data Structures
+- Algorithms
+- Problem Solving
+- DSA Practice
 
-## 📅 Learning Progress
+## 📂 Current Topics
 
-| Day    | Topic      | Status      |
-| ------ | ---------- | ----------- |
-| Day 01 | C++ Basics | ✅ Completed |
-| Day 02 | —          | ⏳ Upcoming  |
-| Day 03 | —          | ⏳ Upcoming  |
-
-> I'll update this table as I progress.
-
-## 📂 Repository Structure
-
-```text
-C++-DSA/
-│
-├── Day-01/
-│   ├── practice.cpp
-│   └── notes.md
-│
-├── Day-02/
-│   └── ...
-│
-└── README.md
-```
+| Topic | File |
+|---|---|
+| Variables | `variable.cpp` |
+| Operators | `operators.cpp` |
+| If-Else | `conditional_if_else.cpp` |
+| Age Condition | `conditional_age.cpp` |
+| Ternary Operator | `ternary_operator.cpp` |
+| Lowercase / Uppercase | `lower_uppercase.cpp` |
+| While Loop | `while_loop.cpp` |
+| Basic C++ Code | `code1.cpp` |
 
 ## 🎯 Goal
 
-My goal is to become strong in **DSA and problem solving** by consistently learning, coding, practicing problems, and documenting my progress.
+My goal is to build a strong foundation in **C++ and DSA** and eventually solve coding problems on platforms such as:
 
-### 🔥 Learning in Public
+- LeetCode
+- CodeChef
+- HackerRank
+- GeeksforGeeks
 
-**Learn → Code → Practice → Document → Repeat**
+## 📈 Progress
+
+I'm updating this repository regularly as I learn new concepts.
+
+> **Learn → Code → Practice → Commit → Repeat 🔥**
+
+## 🛠️ Tools
+
+- C++
+- VS Code
+- Git
+- GitHub
+
+## 📌 Learning Source
+
+Currently learning C++ and DSA through online courses and practice.
+
+## 👨‍💻 About Me
+
+**Saumay Raj**  
+B.Tech CSE (AI/ML) Student
+
+I'm interested in:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Programming
+- 🧠 Data Structures & Algorithms
+- 🌐 Web Development
+- 🚀 Building Projects
 
 ---
 
-⭐ This repository will be updated regularly as I continue my DSA journey.
+⭐ This repository represents my coding journey and will keep growing as I learn.
