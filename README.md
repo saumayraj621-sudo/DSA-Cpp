@@ -1,78 +1,89 @@
-# 🚀 C++ Learning & DSA Journey
+# 🚀 C++ Programming Fundamentals
 
-Welcome to my **C++ learning repository**! 👋
+Welcome to my **C++ Programming Journey**! 👨‍💻
 
-I'm currently learning **C++ and Data Structures & Algorithms (DSA)** and using this repository to track my progress, practice concepts, and maintain all my code in one place.
-
-## 📚 What I'm Learning
-
-- C++ Basics
-- Variables & Data Types
-- Operators
-- Conditional Statements
-- Loops
-- Functions
-- Arrays
-- Strings
-- Pointers
-- Object-Oriented Programming (OOP)
-- Data Structures
-- Algorithms
-- Problem Solving
-- DSA Practice
-
-## 📂 Current Topics
-
-| Topic | File |
-|---|---|
-| Variables | `variable.cpp` |
-| Operators | `operators.cpp` |
-| If-Else | `conditional_if_else.cpp` |
-| Age Condition | `conditional_age.cpp` |
-| Ternary Operator | `ternary_operator.cpp` |
-| Lowercase / Uppercase | `lower_uppercase.cpp` |
-| While Loop | `while_loop.cpp` |
-| Basic C++ Code | `code1.cpp` |
-
-## 🎯 Goal
-
-My goal is to build a strong foundation in **C++ and DSA** and eventually solve coding problems on platforms such as:
-
-- LeetCode
-- CodeChef
-- HackerRank
-- GeeksforGeeks
-
-## 📈 Progress
-
-I'm updating this repository regularly as I learn new concepts.
-
-> **Learn → Code → Practice → Commit → Repeat 🔥**
-
-## 🛠️ Tools
-
-- C++
-- VS Code
-- Git
-- GitHub
-
-## 📌 Learning Source
-
-Currently learning C++ and DSA through online courses and practice.
-
-## 👨‍💻 About Me
-
-**Saumay Raj**  
-B.Tech CSE (AI/ML) Student
-
-I'm interested in:
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 💻 Programming
-- 🧠 Data Structures & Algorithms
-- 🌐 Web Development
-- 🚀 Building Projects
+This repository contains my daily practice programs while learning **C++ from the basics**.  
+I am using this repository to understand programming fundamentals, improve problem-solving skills, and build a strong foundation for **DSA and Object-Oriented Programming**.
 
 ---
 
-⭐ This repository represents my coding journey and will keep growing as I learn.
+## 📚 Topics Covered
+
+- 🔹 Variables & Data Types
+- 🔹 Input & Output
+- 🔹 Operators
+- 🔹 Conditional Statements
+  - `if`
+  - `if-else`
+  - `else-if`
+- 🔹 Ternary Operator
+- 🔹 Loops
+  - `for`
+  - `while`
+- 🔹 Basic Number Problems
+- 🔹 Character & ASCII Concepts
+- 🔹 Uppercase & Lowercase
+- 🔹 Practice Problems
+
+---
+
+## 📂 Programs in This Repository
+
+| File | Topic |
+|------|-------|
+| `code1.cpp` | Basic C++ Program |
+| `variable.cpp` | Variables & Data Types |
+| `operators.cpp` | Operators in C++ |
+| `conditional_age.cpp` | Age-based Conditions |
+| `conditional_if_else.cpp` | If-Else Statements |
+| `ternary_operator.cpp` | Ternary Operator |
+| `lower_uppercase.cpp` | Lowercase & Uppercase |
+| `for_loop.cpp` | For Loop |
+| `while_loop.cpp` | While Loop |
+| `sum_loop.cpp` | Sum using Loop |
+| `oddsum_loop.cpp` | Sum of Odd Numbers |
+
+---
+
+## 🛠️ Technologies Used
+
+- **Language:** C++
+- **Editor:** Visual Studio Code
+- **Compiler:** GCC / G++
+
+---
+
+## 🎯 Goals
+
+My goals with this repository are:
+
+- Build strong C++ fundamentals
+- Practice coding consistently
+- Improve logical thinking
+- Prepare for DSA
+- Learn Object-Oriented Programming
+- Solve programming problems independently
+- Maintain a consistent GitHub coding journey
+
+---
+
+## 📈 Learning Progress
+
+```text
+C++ Basics
+   ↓
+Variables & Operators
+   ↓
+Conditional Statements
+   ↓
+Loops
+   ↓
+Functions
+   ↓
+Arrays & Strings
+   ↓
+Pointers
+   ↓
+OOP
+   ↓
+DSA
